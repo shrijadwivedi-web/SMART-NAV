@@ -1,0 +1,6 @@
+{
+  "name": "Smart Traffic Navigator",
+  "description": "A high-performance Smart Traffic Navigation System featuring a C++ Dijkstra engine, interactive D3.js graph visualization, and a modern Frosted Glass UI. Supports real-time network editing and traffic simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
